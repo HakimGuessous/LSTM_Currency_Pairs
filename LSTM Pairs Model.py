@@ -14,7 +14,7 @@ import os
 from binance.client import Client
 import sklearn.metrics as skll
 
-os.chdir('C:/Users/HGuessous/PycharmProjects/stocks/SentDex')
+os.chdir('C:/Users/HGuessous/PycharmProjects/LSTM_Currency_Pairs')
 
 
 api_key = 'Binance API Key'
